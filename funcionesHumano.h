@@ -26,7 +26,7 @@ void simple();
  */
 void jugada_humano(){
 	int nro;
-	printf("\nTipo de movimiento: ");
+	printf("\nSeleccione Tipo de movimiento: ");
 	printf("\n1. Simple\n2. De Lado\n3.En Linea");
 	scanf("%d", &nro);
 	printf("\n\n");
